@@ -19,5 +19,4 @@ while True:
         engine.runAndWait()
     except Exception as e:
         print("Error:", e)
-        pass
-    
+        
